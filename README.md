@@ -21,7 +21,7 @@ Please check the uploaded videos & pictures for final results
     
 **TurtleBot3 has to be correctly located on the map with the LDS sensor data that neatly overlaps the displayed map, So:**
 
-1- I will estimate Initial Pose Thtough pressing on 2D Pose Estimate button in the RViz menu.
+1- I will estimate Initial Pose Through pressing on 2D Pose Estimate button in the RViz menu.
 
 2- I will click on the map where the actual robot is located and drag the large green arrow toward the direction where the robot is facing.
 
@@ -32,13 +32,13 @@ Please check the uploaded videos & pictures for final results
     export TURTLEBOT3_MODEL=waffle_pi
     roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
     
-4- After that I Move the robot back and forth a littl bit to collect the surrounding environment information and narrow down the estimated locatiton of m robot
+4- After that I Moved the robot back and forth a little bit to collect the surrounding environment information and narrow down the estimated locatiton of my robot
 
 5- Terminate the keyboard teleoperation node using Ctrl + C
 
 **Set Navigation Goal**
 
-Here I clicked on the 2D Nav Goal button in the RViz menu then I startes chosing the destinaion of my robor putting in mind what dirction it will be facing using the green arrow.
+Here I clicked on the 2D Nav Goal button in the RViz menu then I started choosing the destinaion of my robot putting in mind what dirction it will be facing using the green arrow.
 
 **Check the final results for more information.**
 
