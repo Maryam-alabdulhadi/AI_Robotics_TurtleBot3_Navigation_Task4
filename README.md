@@ -1,6 +1,5 @@
 # AI_Robotics_TurtleBot3_Navigation_Task4
 
-# AI_Robotics_TurtleBot3_Navigation_Task4
 
 Please check the uploaded videos & pictures for final results
 
